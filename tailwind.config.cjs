@@ -16,13 +16,7 @@ module.exports = {
       },
       container: {
         center: true,
-        padding: "1rem",
-        screens: {
-          lg: "1125px",
-          xl: "1125px",
-          "2xl": "1125px",
-          "3xl": "1500px",
-        },
+        padding: "1rem"
       },
     },
   },
